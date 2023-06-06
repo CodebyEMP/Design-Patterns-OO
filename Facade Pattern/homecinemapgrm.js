@@ -1,2 +1,0 @@
-
-const facade = new homecinemaFcd();
